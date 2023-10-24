@@ -5,8 +5,6 @@ project:
   identities:
     pivotal:
       url: 'https://www.pivotaltracker.com/projects/2680590'
-    heroku:
-      url: 'https://bjc-teacher-tracker-2022.herokuapp.com'
   members:
     member1:
       name: 'Rtest'
