@@ -4,7 +4,7 @@ project:
   teamId: '123'
   identities:
     pivotal:
-      url: 'https://www.pivotaltracker.com/n/projects/2629131'
+      url: 'https://www.pivotaltracker.com/projects/2680590'
     heroku:
       url: 'https://bjc-teacher-tracker-2022.herokuapp.com'
   members:
